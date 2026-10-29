@@ -162,6 +162,7 @@ Future work could:
 * Scikit-learn
 * SciPy
 * SHAP
+* Seaborn
 * Jupyter Notebook
 * VS Code
 
